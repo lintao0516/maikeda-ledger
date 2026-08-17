@@ -6,5 +6,6 @@ render.exe
 tunnel.log
 current_url.txt
 .renderkey
+.ghtoken
 cs-build/
 dist/
