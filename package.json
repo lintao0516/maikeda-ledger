@@ -1,0 +1,15 @@
+{
+  "name": "maikeda-ledger",
+  "version": "1.0.0",
+  "private": true,
+  "description": "麦客达财务记账工作台 - 共享后端 (Node + Postgres on Render)",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "22.x"
+  },
+  "dependencies": {
+    "pg": "^8.13.1"
+  }
+}
